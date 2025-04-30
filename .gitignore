@@ -1,0 +1,11 @@
+# Ignore all Python bytecode and __pycache__ folders
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Optional: VSCode-specific settings
+.vscode/
+
+# Optional: OS metadata
+.DS_Store
+Thumbs.db
